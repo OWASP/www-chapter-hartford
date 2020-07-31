@@ -8,6 +8,9 @@ level: 0
 region: United States
 
 auto-migrated: 1
+meetup-group: CT-Cyber-Security-Meetup-OWASP-Hartford
+country: USA
+postal-code: 6183
 
 ---
 
