@@ -30,7 +30,7 @@ Please change these items to indicate the actual information you wish to present
 
 ## Welcome
 Most of our chapter event coordination is done via meetup.
-http://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP
+[Link to meetup] (https://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP)
 
 ## Local News
   
@@ -42,7 +42,7 @@ We're planning on a multi-day virtual meetup in early May secure coding tourname
 Compete against fellow security peers, universities, and OWASP chatpers to identify & fix critical vulnerabilities in real-to-life code snippets! 21 frameworks available to play challenges in. Including .Net, Java, Python, Go, Angular, Node, React, iOS, Android, Scala, Ruby, PHP, C++, C, PL/SQL & COBOL!
 
 Tournament Step by Step Guide:
-http://www.youtube.com/watch?v=TwbySIg2z2Y
+[Link to tournament guide](http://www.youtube.com/watch?v=TwbySIg2z2Y)
 Prizes:
 * 1st place earns the secure coding trophy!
 * 2nd = Secure Code Warrior hoodie
@@ -51,7 +51,7 @@ Prizes:
 Instructions for playing:
 1) Sign up for the meetup if you and your friends are interested in the tournament.
 
-2) Register at: http://discover.securecodewarrior.com/OWASPHartford-tournament.html
+2) Register at: [link to scw registratino] (http://discover.securecodewarrior.com/OWASPHartford-tournament.html)
 2) Once available and logged in: click “Tournaments”
 3) Join the OWASP Hartford Secure Coding Tournament
 
