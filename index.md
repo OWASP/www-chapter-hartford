@@ -1,3 +1,4 @@
+---
 layout: col-sidebar
 title: OWASP CT Hartford
 tags: owasp hartford ct 
@@ -10,6 +11,7 @@ meetup-group: CT-Cyber-Security-Meetup-OWASP-Hartford
 country: USA
 postal-code: 06183
 
+---
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
