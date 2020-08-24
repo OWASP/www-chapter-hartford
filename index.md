@@ -10,7 +10,7 @@ region: United States
 auto-migrated: 1
 meetup-group: CT-Cyber-Security-Meetup-OWASP-Hartford
 country: USA
-postal-code: 6183
+postal-code: 06183
 
 ---
 
@@ -25,9 +25,8 @@ Please change these items to indicate the actual information you wish to present
 - tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
 - region: This is the region you are in according to our data
 ```
+-->
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
 
 ## Welcome
 Most of our chapter event coordination is done via meetup.
