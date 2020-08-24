@@ -30,7 +30,7 @@ Please change these items to indicate the actual information you wish to present
 
 ## Welcome
 Most of our chapter event coordination is done via meetup.
-https://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP
+http://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP
 
 ## Local News
   
@@ -42,7 +42,7 @@ We're planning on a multi-day virtual meetup in early May secure coding tourname
 Compete against fellow security peers, universities, and OWASP chatpers to identify & fix critical vulnerabilities in real-to-life code snippets! 21 frameworks available to play challenges in. Including .Net, Java, Python, Go, Angular, Node, React, iOS, Android, Scala, Ruby, PHP, C++, C, PL/SQL & COBOL!
 
 Tournament Step by Step Guide:
-https://www.youtube.com/watch?v=TwbySIg2z2Y
+http://www.youtube.com/watch?v=TwbySIg2z2Y
 Prizes:
 * 1st place earns the secure coding trophy!
 * 2nd = Secure Code Warrior hoodie
@@ -51,7 +51,7 @@ Prizes:
 Instructions for playing:
 1) Sign up for the meetup if you and your friends are interested in the tournament.
 
-2) Register at: https://discover.securecodewarrior.com/OWASPHartford-tournament.html
+2) Register at: http://discover.securecodewarrior.com/OWASPHartford-tournament.html
 2) Once available and logged in: click “Tournaments”
 3) Join the OWASP Hartford Secure Coding Tournament
 
@@ -114,10 +114,10 @@ Security BSides Connecticut, founded in 2011, is hosting its 6th conference! On 
 Parking: All attendees must park in the Welte Garage
 
 Schedule:
-https://bsidesct.org/schedule/
+http://bsidesct.org/schedule/
 
 Registration is $20 and available here:
-https://bsidesct2019.eventbrite.com/
+http://bsidesct2019.eventbrite.com/
 
 About CCSU:
 CCSU is the oldest publicly supported institute of higher education in Connecticut. CCSU is a driving force of the economic, social, cultural, and intellectual development of Connecticut and has graciously donated space for BSidesCT this year. BSides Connecticut provides a much-needed link between information security professionals and the Connecticut technology community by offering a forum for collaborative presentations, information exchange, and ideas.
