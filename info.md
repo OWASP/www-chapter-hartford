@@ -2,5 +2,4 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/CT-Cyber-Security-Meetup-OWASP-Hartford/)
