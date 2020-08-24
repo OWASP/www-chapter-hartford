@@ -1,5 +1,3 @@
----
-
 layout: col-sidebar
 title: OWASP CT Hartford
 tags: owasp hartford ct 
@@ -11,8 +9,6 @@ auto-migrated: 0
 meetup-group: CT-Cyber-Security-Meetup-OWASP-Hartford
 country: USA
 postal-code: 06183
-
----
 
 
 <!-- Standard Chapter Page Template
