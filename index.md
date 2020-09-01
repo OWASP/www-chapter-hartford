@@ -16,7 +16,7 @@ postal-code: 06183
 
 ## Welcome
 Most of our chapter event coordination is done via meetup.
-[Link to meetup] (https://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP)
+[Link to Meetup](https://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP)
 
 ## Local News
   
