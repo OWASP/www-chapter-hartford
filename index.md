@@ -4,7 +4,7 @@ title: OWASP CT Hartford
 tags: owasp hartford ct 
 level: 0
 
-region: United States
+region: North America
 
 auto-migrated: 0
 meetup-group: CT-Cyber-Security-Meetup-OWASP-Hartford
