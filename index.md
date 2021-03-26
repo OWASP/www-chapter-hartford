@@ -20,6 +20,21 @@ Most of our chapter event coordination is done via meetup.
 
 ## Local News
 
+**OWASP CT @ Queens High School for the Sciences at York College 3/12**
+Day in the Life of a Computer Security Professional - We get high school students excited about computer security, and what it's like to be a builder, breaker, defender.
+
+Agenda:
+* What people think we do
+* What we actually do
+* How I got here; my path to computer security
+* College
+* Penetration Testing
+* Cybersecurity careers
+* Job skills
+* Computer Science not required
+* The cybersecurity pipeline problem: you're the solution!
+
+
 **OWASP CT @ Virtual Cybersecurity Summit 2/25-2/26**
 
 We'll be running a virtual booth to talk OWASP for those attending the summit as well as for our members. More details to follow.
