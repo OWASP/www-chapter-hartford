@@ -38,8 +38,8 @@ Complimentary Registration: https://www.dataconnectors.com/events/2021/february/
 Date/Time: 11/13/20
 
 Workshops:
-11/13 : Sign up for the Red Hat Ansible Workshop here.
-11/14 : Sign up for the Lock Picking workshop here.
+* 11/13 : Sign up for the Red Hat Ansible Workshop here.
+* 11/14 : Sign up for the Lock Picking workshop here.
 
 Registration: $5-$20
 https://www.eventbrite.com/e/bsides-ct-2020-tickets-124263959849
