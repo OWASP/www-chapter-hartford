@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP CT Hartford
+title: OWASP Hartford, CT
 tags: owasp hartford ct 
 level: 0
 
