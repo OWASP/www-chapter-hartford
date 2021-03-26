@@ -19,7 +19,32 @@ Most of our chapter event coordination is done via meetup.
 [Link to Meetup](https://www.meetup.com/Hartford-Cyber-Security-Meetup-OWASP)
 
 ## Local News
-  
+
+**OWASP CT @ Virtual Cybersecurity Summit 2/25-2/26**
+We'll be running a virtual booth to talk OWASP for those attending the summit as well as for our members. More details to follow.
+
+As the result of our attendance, our members get:
+Complimentary Registration:
+• 12+ CPE Credits with full attendance
+• Keynote presentations
+• CIO/CISO Panel Discussion
+• Cybersecurity expert presentations
+• Virtual exhibits from solution providers with chat capability
+
+Complimentary Registration: https://www.dataconnectors.com/events/2021/february/boston/?aff=OWASP
+
+**OWASP @ bSides CT(virtual)**
+Date/Time: 11/13/20
+
+Workshops:
+11/13 : Sign up for the Red Hat Ansible Workshop here.
+11/14 : Sign up for the Lock Picking workshop here.
+
+Registration: $5-$20
+https://www.eventbrite.com/e/bsides-ct-2020-tickets-124263959849
+
+Security BSides is a community-driven framework used to build events for and by information security community members, events where individuals have opportunities to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense experience designed to expand the spectrum of conversation beyond the traditional confines of space and time with discussions, demos, and participant interaction. It’s where conversations on the next big thing are happening
+
 
 **(Virtual) Multiday Secure Code Tournament in May**
 Date/Time: 5/21/20-5/26/20
