@@ -21,6 +21,7 @@ Most of our chapter event coordination is done via meetup.
 ## Local News
 
 **OWASP CT @ Virtual Cybersecurity Summit 2/25-2/26**
+
 We'll be running a virtual booth to talk OWASP for those attending the summit as well as for our members. More details to follow.
 
 As the result of our attendance, our members get:
