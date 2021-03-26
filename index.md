@@ -26,11 +26,11 @@ We'll be running a virtual booth to talk OWASP for those attending the summit as
 
 As the result of our attendance, our members get:
 Complimentary Registration:
-• 12+ CPE Credits with full attendance
-• Keynote presentations
-• CIO/CISO Panel Discussion
-• Cybersecurity expert presentations
-• Virtual exhibits from solution providers with chat capability
+*12+ CPE Credits with full attendance
+* Keynote presentations
+* CIO/CISO Panel Discussion
+* Cybersecurity expert presentations
+* Virtual exhibits from solution providers with chat capability
 
 Complimentary Registration: https://www.dataconnectors.com/events/2021/february/boston/?aff=OWASP
 
