@@ -21,6 +21,7 @@ Most of our chapter event coordination is done via meetup.
 ## Local News
 
 **OWASP CT Chapter Planning (Virtual) 4/9**
+Agenda:
 Getogether to kick off 2021 planning activities
 
 **OWASP CT @ Queens High School for the Sciences at York College 3/12**
