@@ -40,33 +40,6 @@ Agenda:
 * The cybersecurity pipeline problem: you're the solution!
 
 
-**OWASP CT @ Virtual Cybersecurity Summit 2/25-2/26**
-
-We'll be running a virtual booth to talk OWASP for those attending the summit as well as for our members. More details to follow.
-
-As the result of our attendance, our members get:
-Complimentary Registration:
-*12+ CPE Credits with full attendance
-* Keynote presentations
-* CIO/CISO Panel Discussion
-* Cybersecurity expert presentations
-* Virtual exhibits from solution providers with chat capability
-
-Complimentary Registration: https://www.dataconnectors.com/events/2021/february/boston/?aff=OWASP
-
-**OWASP @ bSides CT(virtual)**
-Date/Time: 11/13/20
-
-Workshops:
-* 11/13 : Sign up for the Red Hat Ansible Workshop here.
-* 11/14 : Sign up for the Lock Picking workshop here.
-
-Registration: $5-$20
-https://www.eventbrite.com/e/bsides-ct-2020-tickets-124263959849
-
-Security BSides is a community-driven framework used to build events for and by information security community members, events where individuals have opportunities to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense experience designed to expand the spectrum of conversation beyond the traditional confines of space and time with discussions, demos, and participant interaction. It’s where conversations on the next big thing are happening
-
-
 **(Virtual) Multiday Secure Code Tournament in May**
 Date/Time: 5/21/20-5/26/20
 We're planning on a multi-day virtual meetup in early May secure coding tournament! Start Date is Thu, 05/21/20. The competition will take place over 5 days, so you will be able to join the tournament at your convenience. Feel free to share the meetup with your friends, peers, and others you think might be interested in. We will send out multiple communications to those attendees regarding how to register.
@@ -89,93 +62,6 @@ Instructions for playing:
 
 Monitor the live leaderboard to see how you're performing!
 The Secure Code Warrior platform will be open before and after the tournament, so feel free to practice in the “Training” tab.
-
-**(Virtual) OWASP at CSA CT 4/30: Data Protection in Office 365**
-Date/Time: 4/30/20
-DATA PROTECTION IN OFFICE 365: A Virtual Lunch and Learn
-
-A 30 minute presentation followed by a 15 minute Q&A session.
-
-Data protection in O365 can be tough with the rapid shift to the cloud and all the opportunities to share data . We look to share our journey to securing O365 with our success stories, lessons learned, and future roadmap items.
-
-WHAT YOU'LL LEARN
-*How to get started protecting your data in O365
-*How to control network egress points in O365
-*How to lock down collaboration controls in O365
-*Strategies to DLP O365
-
-WHO SHOULD ATTEND?
-Practitioners working with, or planning to work with Office 365
-
-Speakers:
-Jwan Campbell - Security Adviser - Aetna - is a Cyber Security/Risk Management thought leader and strategist with over 15 years’ experience across multiple security/privacy domains spanning on premise and in the cloud. Proven experience in the creation and deployment of solutions protecting networks, systems and information assets
-
-Joshua Atencio is an Information Security Advisor at CVS Health. With 5 years of Information Security Experience across network security, cloud security, and data protection. Where he has reduced the companies risk profile through key projects leveraging a Cloud Access Security Broker, Network Security and Data loss prevention controls.
-
-**OWASP @ CSA CT - Recent Wins & Challenges in Cloud Security & Top 5 Cloud Myths**
-Date/Time: 1/30/20
-
-Recent Wins and Challenges in Cloud Security
-An Expert Panel and Top 5 Cloud Myths - Busted
-
-The panel will share experiences and answer questions to help participants navigate their own cloud security challenges.
-
-WHAT YOU'LL LEARN
-
-Meet with cloud security professionals in Hartford and Springfield
-Share your challenges and experiences
-Hear from experts and peers about their knowledge of cloud security
-Discuss the trends and future of cloud security
-
-WHO SHOULD ATTEND?
-
-Cloud security professionals Leaders and practitioners of cloud security initiatives
-
-SPEAKERS:
-
-Bill Downes | CISO, VP Information Protection @ The Hartford
-Danielle Goulet | Chief Information Security Officer @ The Hanover Insurance Group
-Martin Holste | CTO, Cloud
-Stephen Scharf | Managing Director and Global CSO @ DTCC
-
-Moderator: Karolyn Maloney | Sr Director, IT Hygiene, IDAM, Endpoint Protection @ CVS Health
-
-**OWASP @ bsidesCT**
-Date/Time: 11/9/19
-Security BSides Connecticut, founded in 2011, is hosting its 6th conference! On November 9th 2019, They’ll be kicking off Connecticut’s premier cybersecurity conference. An exciting day-long information security conference, BSidesCT 2019 will be held at Central Connecticut State University. Doors open at 8 am; events begin at 9. The event will be held in Willard-DiLoreto Hall @ S Perimeter Rd, New Britain, CT 06053.
-Parking: All attendees must park in the Welte Garage
-
-Schedule:
-http://bsidesct.org/schedule/
-
-Registration is $20 and available here:
-http://bsidesct2019.eventbrite.com/
-
-About CCSU:
-CCSU is the oldest publicly supported institute of higher education in Connecticut. CCSU is a driving force of the economic, social, cultural, and intellectual development of Connecticut and has graciously donated space for BSidesCT this year. BSides Connecticut provides a much-needed link between information security professionals and the Connecticut technology community by offering a forum for collaborative presentations, information exchange, and ideas.
-
-**OWASP at CSA CT Cloud Security Governance Meetup**
-DATE/TIME: 10/24/19 5:30-9PM
-
-LOCATION: Upward Hartford,
-20 Church St, Hartford, CT 06103
-
-Agenda:
-
-Meet with cloud security professionals in Hartford and Springfield
-Share your challenges and experiences
-Hear from experts and peers about their knowledge of cloud security
-Discuss the trends and future of cloud security
-
-Speaker:
-JIM ROUTH
-Head of Enterprise Information Risk Management
-MASSMUTUAL Enterprise Technology & Experience Group | EIRM
-
-Jim will share experiences in the definition, adoption and implementation of cloud security governance for the enterprises based on his “scar-tissue” of having failed to address enterprise needs effectively along with a few successful techniques to consider for the implementation of security governance for infrastructure as a service from third parties.
-
-Registration:
-https://www.csact.org/event-details/cloud-security-governance-for-the-enterprise-an-accountability-model/form
 
 
 **Security Workshop at UCONN CyberSEED**
@@ -292,47 +178,6 @@ About:
 The high school GenCyber Agent Academy (incoming 9th-12th grade) at the University of New Haven, hosted by the Tagliatela College of Engineering, is a unique, rigorous, student-centric summer camp with an enriching hands-on experiential learning environment. It is the first GenCyber camp in Connecticut and is open to 20 male and 20 female applicants. Cyber Agents accepted to this academy will enjoy a Cyber Career Catapult session where they will learn about educational and career opportunities in cybersecurity.
 
 The camp offers the following courses (a) Python (b) Cyber Forensics (c) Hacking Concepts (d) IoT & Mobile and (e) Network Defense. Cyber Agents will also have unique experiences where they would tour the UNH Information Technology (IT) offices and server rooms, participate in a cyber Scavenger Hunt and compete in teams in a Cyber Challenge. The camp is a comprehensive one week, learner-centered, hands-on, intensive program designed not only to teach students about cybersecurity, but to also have a long term effect on their career goals and aspirations.
-
-
-**OWASP @ bSides CT**
-Date/Time: 11/3/19
-9:00AM-5:00PM
-
-OWASP @ bSides CT - Sat, Nov 3rd - Fairfield, CT
-
-The local BSides Security conference in CT is taking place Sat, Nov 3,
-2018 in Fairfield, CT. Their CFP is out, and I would encourage you to
-submit a talk. Tickets are available for the actual conference are $20
-and can be purchased here:
-https://www.eventbrite.com/e/bsides-ct-2018-tickets-49521252399
-
-The conference will feature speakers, workshops, CTF (with prizes\!),
-lightning talks, and an after-party.
-
-Schedule updates and additional info: www.bsidesct.org
-
-About BSides:
-
-Security BSides is a community-driven framework used to build events for
-and by information security community members, events where individuals
-have opportunities to both present and participate in an intimate
-atmosphere that encourages collaboration. It is an intense experience
-designed to expand the spectrum of conversation beyond the traditional
-confines of space and time with discussions, demos, and participant
-interaction. It’s where conversations on the next big thing are
-happening
-
-About Fairfield University:
-
-Fairfield University sits on the Connecticut coast and is conveniently
-located ½ mile from the train station offering a central location for
-all attendees, whether taking public transit, train, or driving. The
-Amtrak and MTA access means we’re close enough to New York City to turn
-a day trip into an adventure, yet far enough to make Fairfield seem like
-a completely different world. BSides Connecticut provides a much-needed
-link between information security professionals and the Connecticut
-technology community by offering a forum for collaborative
-presentations, information exchange, and ideas.
 
 **Fairfield U - Day in the Life of a CyberSecurity Professional**
 Date/Time: 10/12/18
@@ -579,6 +424,7 @@ special investigation unit of a large multi-line US insurance company
 where he was responsible for investigative analytics and intelligence
 operations. He has nearly two decades of investigation and fraud
 analytics experience. Connect with him on Twitter @jdruotolo
+
 **Agenda: Thursday, May 26th 2016**
 Industry Cyber Security Panel
 
